@@ -51,7 +51,7 @@
 
   
    <p align="center">🖥️
- <p align="center">*I'm available for contributing to projects of any type 
+ <p align="center">*I'm available for contributing to projects of any type.
      <p align="center">  I have a preference for Game, Web and Security development.
   
   
