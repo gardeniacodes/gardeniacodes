@@ -3,7 +3,7 @@
   
   <p align="center"><b> Hi! I'm Gardenia</b>
   
-<p align="center">🖥️
+<p align="center">🙂
      
    <p align="center">I'm a Developer based in Indianapolis, USA. 
      
@@ -14,9 +14,9 @@
  <p align="center">I love problem solving and writing readable, testable and reliable code.
 
    
- <
+ 
    
-<p align="center"><b> Skills</b>
+<p align="center"><b>- Skills</b>
    
    
 
@@ -33,15 +33,15 @@
  
  
  
- <
  
  
  
  
- <p align="center">✉️<b> Contact me</b> 
- <p align="center">  https://keybase.io/gardenia
  
-   
+ <p align="center">- <b> Contact me</b> 
+ <p align="center"> ✉️ https://keybase.io/gardenia
+ 
+
 
  ------
  
@@ -50,13 +50,13 @@
   
 
   
-   <p align="center">
-*I'm available for contributing to projects of any type 🙂
+   <p align="center">🖥️
+ <p align="center">*I'm available for contributing to projects of any type 
      <p align="center">  I have a preference for Game, Web and Security development.
   
   
 <p align="center">I'm also interested in helping any charity projects in need of volunteers!
   
-<
+
 
 <p align="center"><a href="https://www.buymeacoffee.com/gardeniacodes"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
